@@ -231,7 +231,7 @@
     "previous_button": "« Anterior",
     "back_button": "« Voltar",
     "next_button": "Próximo »",
-    "cancel_button": "{CROSS_MARK} Cancelar",
+    "cancel_button": "{CROSS_MARK} Cancelar ",
     "download_button": "{INBOX_TRAY} Download",
     "how_it_works_button": "{QUESTION_MARK} Como funciona",
     "rate_now_button": "{WHITE_MEDIUM_STAR} Avaliar",
